@@ -9,3 +9,7 @@ A bunch of [ixaxaar](https://github.com/ixaxaar)'s vibe-coded projects. 🍫
 ## [arxiv-desktop](https://github.com/lunar-lander/arxiv-desktop): A desktop app for working with research papers from pre-print archives.
 
 ![demo](https://github.com/lunar-lander/arxiv-desktop/raw/master/assets/arxiv-desktop.gif)
+
+## [exit-gate](https://github.com/lunar-lander/exit-gate): An opensnitch-clone ebpf-based firewall.
+
+![demo](https://github.com/lunar-lander/exit-gate/raw/master/assets/exit-gate.gif)
