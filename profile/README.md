@@ -12,4 +12,5 @@ A bunch of [ixaxaar](https://github.com/ixaxaar)'s vibe-coded projects. 🍫
 
 ## [exit-gate](https://github.com/lunar-lander/exit-gate): An opensnitch-clone ebpf-based firewall.
 
-![demo](https://github.com/lunar-lander/exit-gate/raw/master/assets/exit-gate.gif)
+![demo](https://github.com/lunar-lander/exit-gate/raw/master/exit-gate.gif)
+
