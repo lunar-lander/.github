@@ -2,6 +2,10 @@
 
 A bunch of [ixaxaar](https://github.com/ixaxaar)'s vibe-coded projects. 🍫
 
+## [India News Tracker](https://github.com/lunar-lander/news-tracker): A dashboard approach to news tracking.
+
+![News tracker screenshot](https://github.com/lunar-lander/news-tracker/raw/master/assets/app.png)
+
 ## [Lunar Lander](https://github.com/lunar-lander/lunar-lander): A local desktop multi-AI chat app.
 
 ![Lunar Lander Screenshot](https://github.com/lunar-lander/lunar-lander/raw/master/assets/ll-intro.gif)
